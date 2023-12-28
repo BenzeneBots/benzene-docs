@@ -11,7 +11,7 @@ Let's start setting up your computer for the **FRC Season**
 3. If you have Game Tool for other seasons, promptly uninstall them
 
 ### Overview
-1. Configure [RoboRio]
+1. Configure [RoboRio](/docs/QA/roborio1)
 2. Configure Radio
 3. Setup Game Tools
 4. Setup Test Project

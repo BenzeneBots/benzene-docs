@@ -21,7 +21,7 @@ const FeatureList: FeatureItem[] = [
         title: 'Intro to Github',
         description: (
             <>
-                To learn more about Git and Github. Refer to his <a href={"https://www.youtube.com/watch?v=iv8rSLsi1xo"}>video</a>
+                To learn more about Git and Github. Refer to this <a href={"https://www.youtube.com/watch?v=iv8rSLsi1xo"}>video</a>.
             </>
         ),
     },
