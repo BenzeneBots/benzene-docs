@@ -31,7 +31,7 @@ const FeatureList: FeatureItem[] = [
       <>
           <a href={"https://github.com/BenzeneBots"}>Benzenebots Github</a>
           <hr></hr>
-          <a href={"https://benzenebots.com/"}>Benzenebots Site</a>
+          <a href={"https://benzenebots.org/"}>Benzenebots Site</a>
       </>
     ),
   },
