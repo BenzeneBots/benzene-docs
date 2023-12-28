@@ -40,11 +40,15 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
+          editUrl:
+              'https://github.com/BenzeneBots/benzene-docs/tree/main/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.',
+          // Remove this to remove the "edit this page" links.
+          editUrl:
+              'https://github.com/BenzeneBots/benzene-docs/tree/main/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -75,7 +79,7 @@ const config = {
           },
           // {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/BenzeneBots/benzene-docs',
             label: 'GitHub',
             position: 'right',
           },
